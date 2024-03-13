@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7d223ae-62e8-413d-bc89-615a2f613159" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Regular_Bracket_Sequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Bracket_Sequence.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polycarp_and_the_Day_of_Pi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polycarp_and_the_Day_of_Pi.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "C/C++ File.1374C-Move_Brackets.cpp.executor": "Run",
     "C/C++ File.C.Yet_Another_Card_Deck.cpp.executor": "Run",
     "C/C++ File.Eslam.cpp.executor": "Run",
+    "C/C++ File.Polycarp_and_the_Day_of_Pi.cpp.executor": "Run",
     "C/C++ File.Regular_Bracket_Sequence.cpp.executor": "Run",
     "C/C++ File.Yet_Another_Card_Deck.cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -67,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Regular_Bracket_Sequence.cpp">
+  <component name="RunManager" selected="C/C++ File.Polycarp_and_the_Day_of_Pi.cpp">
     <configuration name="1374C-Move_Brackets.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="1374C-Move_Brackets.cpp" CONFIG_NAME="1374C-Move_Brackets.cpp">
       <option name="sourceFile" value="1374C-Move_Brackets.cpp" />
       <method v="2">
@@ -81,8 +82,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eslam.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="Eslam.cpp" CONFIG_NAME="Eslam.cpp">
-      <option name="sourceFile" value="Eslam.cpp" />
+    <configuration name="Polycarp_and_the_Day_of_Pi.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="Polycarp_and_the_Day_of_Pi.cpp" CONFIG_NAME="Polycarp_and_the_Day_of_Pi.cpp">
+      <option name="sourceFile" value="Polycarp_and_the_Day_of_Pi.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Polycarp_and_the_Day_of_Pi.cpp" />
         <item itemvalue="C/C++ File.Regular_Bracket_Sequence.cpp" />
         <item itemvalue="C/C++ File.1374C-Move_Brackets.cpp" />
         <item itemvalue="C/C++ File.Yet_Another_Card_Deck.cpp" />
         <item itemvalue="C/C++ File.C.Yet_Another_Card_Deck.cpp" />
-        <item itemvalue="C/C++ File.Eslam.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +127,7 @@
       <workItem from="1710304225222" duration="7000" />
       <workItem from="1710305022509" duration="79000" />
       <workItem from="1710308999642" duration="27000" />
+      <workItem from="1710310749717" duration="33000" />
     </task>
     <servers />
   </component>
